@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "İletişim",
+    "en": "Contact",
+    "ar": "اتصل بنا"
+  },
+  "status": "play",
+  "category": "",
+  "id": "iletisim",
+  "url": "",
+  "path": "iletisim",
+  "index": 6,
+  "icon": "call",
+  "desing": {
+    "header": [],
+    "body": [
+      "0ptg12",
+      "k8mp01"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Adres, telefon ve çalışma saatleri.",
+    "en": "Address, phone and opening hours.",
+    "ar": "العنوان والهاتف وساعات العمل."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "İletişim",
+    "en": "Contact",
+    "ar": "اتصل بنا"
+  },
+  "keyword": {
+    "tr": "iletişim",
+    "en": "contact",
+    "ar": "اتصل بنا"
+  },
+  "update": "2026-11-05T22:24:55.679Z",
+  "date": "2026-10-30"
+}

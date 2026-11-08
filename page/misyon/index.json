@@ -1,0 +1,41 @@
+{
+  "id": "misyon",
+  "name": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "description": {
+    "tr": "Misyonumuz",
+    "en": "Our mission",
+    "ar": "مهمتنا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "misyon",
+  "icon": "flag",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {
+    "tr": "<h2>Misyonumuz</h2>\n<p>Misyonumuz, konut ve ticari yapıları sözleşmedeki tarihte, belgeli kalite ve açık ilerleme paylaşımıyla teslim etmektir.</p>",
+    "en": "<h2>Our mission</h2>\n<p>Our mission is to deliver housing and commercial buildings on the contractual date, with certified quality and open progress sharing.</p>",
+    "ar": "<h2>مهمتنا</h2>\n<p>مهمتنا تسليم المباني السكنية والتجارية في الموعد التعاقدي بجودة موثّقة ومشاركة معلنة للتقدّم.</p>"
+  },
+  "title": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "date": "2026-10-31T14:19:34.413Z",
+  "update": "2026-11-05T22:24:55.690Z"
+}
