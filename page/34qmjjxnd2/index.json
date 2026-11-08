@@ -1,0 +1,39 @@
+{
+  "id": "34qmjjxnd2",
+  "name": {
+    "tr": "Tarihçe",
+    "en": "History",
+    "ar": "تاريخنا"
+  },
+  "description": {
+    "tr": "Mavera Yapı’nın 2009’dan bugüne yolculuğu.",
+    "en": "The Mavera Yapi journey from 2009 to today.",
+    "ar": "مسيرة مافيرا يابي منذ عام 2009 حتى اليوم."
+  },
+  "keyword": {
+    "tr": "tarihçe, kuruluş, dönüm noktaları",
+    "en": "history, founding, milestones",
+    "ar": "تاريخ، تأسيس، محطات"
+  },
+  "path": "tarihce",
+  "icon": "history",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "vfpxlz"
+    ],
+    "footer": []
+  },
+  "index": 9,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Tarihçe",
+    "en": "History",
+    "ar": "تاريخنا"
+  },
+  "date": "2026-10-31T14:19:34.610Z",
+  "update": "2026-11-05T22:24:55.687Z"
+}

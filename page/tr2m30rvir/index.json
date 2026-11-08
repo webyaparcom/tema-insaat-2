@@ -1,0 +1,40 @@
+{
+  "id": "tr2m30rvir",
+  "name": {
+    "tr": "İlerleme",
+    "en": "Progress",
+    "ar": "تقدّم البناء"
+  },
+  "description": {
+    "tr": "Aynı kadrajdan dört aşamada şantiye ilerlemesi (görseller temsilidir).",
+    "en": "Site progress in four stages from the same viewpoint (images are representative).",
+    "ar": "تقدّم الموقع في أربع مراحل من الزاوية نفسها (الصور تمثيلية)."
+  },
+  "keyword": {
+    "tr": "inşaat ilerleme, şantiye, aşamalar",
+    "en": "construction progress, site, stages",
+    "ar": "تقدّم البناء، موقع، مراحل"
+  },
+  "path": "insaat-ilerleme",
+  "icon": "timelapse",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "c7zno2",
+      "mh8rcs"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "İlerleme",
+    "en": "Progress",
+    "ar": "تقدّم البناء"
+  },
+  "date": "2026-10-31T14:19:34.598Z",
+  "update": "2026-11-05T22:24:55.670Z"
+}

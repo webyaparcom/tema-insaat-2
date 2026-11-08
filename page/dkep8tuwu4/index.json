@@ -1,0 +1,39 @@
+{
+  "id": "dkep8tuwu4",
+  "name": {
+    "tr": "Projelerimiz",
+    "en": "Projects",
+    "ar": "مشاريعنا"
+  },
+  "description": {
+    "tr": "Mavera Yapı’nın konut ve ticari projeleri; kategori ve duruma göre süzülebilir.",
+    "en": "Mavera Yapi residential and commercial projects, filterable by category and status.",
+    "ar": "المشاريع السكنية والتجارية لمافيرا يابي، قابلة للتصفية حسب الفئة والحالة."
+  },
+  "keyword": {
+    "tr": "projeler, konut, ticari, inşaat",
+    "en": "projects, housing, commercial, construction",
+    "ar": "مشاريع، سكني، تجاري، بناء"
+  },
+  "path": "projelerimiz",
+  "icon": "apartment",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "fyz7vk"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Projelerimiz",
+    "en": "Projects",
+    "ar": "مشاريعنا"
+  },
+  "date": "2026-10-31T14:19:34.589Z",
+  "update": "2026-11-05T22:24:55.661Z"
+}
